@@ -2,9 +2,10 @@
     "name": "drawer-auth",
     "version": "1.0.0",
     "description": "MEAN",
+    "main": "server.js",
     "repository": {
         "type": "git",
-        "url": "nttp://localhost"
+        "url": "https://github.com/welmas/auth.git"
     },
     "dependencies": {
         "bcryptjs": "^2.1.0",
