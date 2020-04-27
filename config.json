@@ -1,0 +1,5 @@
+﻿{
+    "connectionString": "mongodb://127.0.0.1:4010/Dategraph_Users",
+    "apiUrl": "http://melmas.dynu.net:4000",
+    "secret": "DATEGRAPHS WILL ROCK THE WORLD WITH BABA BORA BERK"
+}
